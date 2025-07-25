@@ -8,3 +8,6 @@ plotly
 jinja2
 weasyprint
 openai
+langchain
+faiss-cpu
+tiktoken
